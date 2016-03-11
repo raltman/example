@@ -62,6 +62,8 @@ public class Start {
         if (CONFIG.isRpcEnabled()) {
             new JsonRpcListener(rootstock).start();
         }
+		
+		public void desdemaquina2() {}
     }
 	
 	public void desdemaquina() {}
