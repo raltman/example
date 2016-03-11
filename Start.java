@@ -63,4 +63,6 @@ public class Start {
             new JsonRpcListener(rootstock).start();
         }
     }
+	
+	public void desdemaquina() {}
 }
